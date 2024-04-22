@@ -1,0 +1,136 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ローカル環境ファイル
+/.vscode/
+/.idea/
+
+# ビルド出力
+/dist
+/tmp
+
+# 依存関係ディレクトリ
+/node_modules
+/vendor
+
+# OS生成ファイル
+.DS_Store
+.Thumbs.db
+
+# ログファイル
+*.log
+
+# Pythonバイトコード
+__pycache__/
+*.py[cod]
+
+# その他不要なファイル
+*.swp
+*.swo
+
+.CFUserTextEncoding
+.anaconda/
+.android/
+.asdf/
+.bash_history
+.bash_profile
+.bashrc
+.bundle/
+.cache/
+.cocoapods/
+.condarc
+.config/
+.continuum/
+.dart-tool/
+.dart/
+.dartServer/
+.docker/
+.flutter
+.gem/
+.gitconfig
+.gitflow_export
+.gitignore_global
+.hgignore_global
+.idlerc/
+.irb_history
+.lesshst
+.local/
+.mkshrc
+.npm/
+.oh-my-zsh/
+.profile
+.psql_history
+.pub-cache/
+.python_history
+.rbenv/
+.rvm/
+.ssh/
+.stCommitMsg
+.swiftpm/
+.tcshrc
+.tool-versions
+.ts_node_repl_history
+.viminfo
+.vscode/
+.xonshrc
+.yabairc.swp
+.yarnrc
+.zcompdump-*
+.zlogin
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshrc
+.zshrc.pre-oh-my-zsh
+.zshrc.save
+.zshrc�
+38680_POPOTINESU_beginner_rails/
+38940_POPOTINESU_ruby_beginner/
+Applications/
+Desktop/
+Django/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Projects/
+Public/
+RUNTEQ/
+StudioProjects/
+anaconda3/
+atcoder.cpp
+development/
+node_modules/
+package-lock.json
+package.json
+pritn("Hellowolld").py
+test.json
+workspace/
+yarn.lock
+
+# その他の一般的に無視されるべきファイル
+.DS_Store
+Thumbs.db
